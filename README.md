@@ -27,4 +27,3 @@ When I'm not working I like to go for long walks, photograph, read books or play
 ### 🌱What I'm Learning
 
 - How to categorize different text documents based on their semantic meaning (**semantic analysis**).
----
