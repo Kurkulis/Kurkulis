@@ -1,6 +1,3 @@
-### Hi stranger, I'm Emil 👋
-
----
 
 ### 🙋🏽‍♂️About Me
 
