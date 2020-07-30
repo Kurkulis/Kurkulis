@@ -17,5 +17,5 @@ I love to explore, build & fix things. That is what drives me. The best part of 
 
 ### 📚 What I'm Learning
 
-* How to compute the semantic similarity between two text documents using different methods (**BoW/TF-IDF, Transformers/BERT, Word2vec/fastText...**).
+* How to compute the semantic similarity between two text documents using different methods (**BoW/TF-IDF, Transformers/BERT, Word2vec/fastText, Universal Sentence Encoder...**).
 * Vim
