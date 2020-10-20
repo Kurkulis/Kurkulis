@@ -14,6 +14,7 @@ I love to explore, build & fix things. That is what drives me. The best part of 
 ### 🚧 Current Projects:
 
 * Thesis related to **natural language processing**
+* Website with Django
 * Discord Python bot 
 
 ### 📚 What I'm Learning
