@@ -8,14 +8,14 @@ I love to explore, build & fix things. That is what drives me. The best part of 
 ### 👨🏽‍💻 Tech Stack
 
 * Python
-* JavaScript [React, Gatsby]
+* JavaScript [React, Gatsby, Next.js]
 * HTML & CSS
 
 ### 🚧 Current Projects:
 
 * Thesis related to **natural language processing**
-* Website with Django
-* Discord Python bot 
+* Website with Next.js
+* Discord Python bot
 
 ### 📚 What I'm Learning
 
