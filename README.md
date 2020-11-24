@@ -7,15 +7,14 @@ I love to explore, build & fix things. That is what drives me. The best part of 
 
 ### 👨🏽‍💻 Tech Stack
 
-* Python
 * JavaScript [React, Gatsby, Next.js]
+* Python
 * HTML & CSS
 
 ### 🚧 Current Projects:
 
-* Thesis related to **natural language processing**
-* Website with Next.js
 * Discord Python bot
+* Online privacy checkup
 
 ### 📚 What I'm Learning
 
@@ -23,4 +22,4 @@ I love to explore, build & fix things. That is what drives me. The best part of 
 * ~~How to apply semantic similarity methods for real-world use cases. (**TF-IDF, BERT, fastText, LASER, Universal Sentence Encoder**)~~
 * How to build a chatbot with Python.
 * How to improve your online privacy.
-* Everything about Linux and command line.
+* How to automate your everyday life with scripts.
