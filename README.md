@@ -11,9 +11,9 @@ I'm a professional problem solver trying to figure out how the universe works. I
 
 ### 🚧 Current Projects:
 
-* Weight Tracker App with Ruby on Rails
+* Weight Tracker (Ruby on Rails)
 * Online privacy checkup
-* Discord Python bot
+* Discord bot (Python)
 
 ### 📚 What I'm Learning
 
