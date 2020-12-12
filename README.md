@@ -11,8 +11,7 @@ I'm just a random dude trying to figure out how the universe works. I'm also a *
 
 ### 🚧 Current Projects:
 
-* Weight Tracker (Ruby on Rails)
-* Online privacy checkup
+* Weight Tracker
 * Discord bot (Python)
 
 ### 📚 What I'm Learning
@@ -22,4 +21,3 @@ I'm just a random dude trying to figure out how the universe works. I'm also a *
 * ~~How to improve your online privacy.~~
 * ~~How to build a chatbot with Python.~~
 * How to automate your everyday life with scripts.
-* Ruby & Ruby on Rails
