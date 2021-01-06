@@ -18,4 +18,4 @@ I'm just a random dude trying to figure out how the universe works. I'm also a *
 
 * How to automate your everyday life with scripts.
 * Privacy oriented software development.
-* Ethical hacking, hacking with Python & cyber security.
+* Cyber security, ethical hacking & hacking with Python.
