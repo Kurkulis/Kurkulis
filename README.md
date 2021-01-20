@@ -17,5 +17,6 @@ I'm just a random dude trying to figure out how the universe works. I'm also a *
 ### 📚 What I'm Learning
 
 * How to automate your everyday life with scripts.
-* Privacy oriented software development.
-* Cyber security, ethical hacking & hacking with Python.
+* ~~Privacy oriented software development.~~
+* Brushing up my statistics skills.
+* MIT 6.824 Distributed systems.
