@@ -5,19 +5,16 @@ I'm just a random dude trying to figure out how the universe works. I'm also a *
 
 ### 👨🏽‍💻 Tech Stack
 
-* JavaScript [React, Next.js, Gatsby.js]
-* Python
+* JavaScript [React, Node.js]
+* Python [the basic scientific stack]
 * HTML & CSS
 
 ### 🚧 Current Projects:
 
-* Contribute to open source
-* Weight Tracker
-* Automate my everyday life with scripts & systems.
+* Weight Tracker (dashboard)
+* Automate my life with scripts & systems.
+* Timeblock my days.
 
 ### 📚 What I'm Learning
 
-* ~~How to automate your everyday life with scripts.~~
-* ~~Privacy oriented software development.~~
 * Brushing up my statistics skills.
-* MIT 6.824 Distributed systems.
