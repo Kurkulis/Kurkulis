@@ -11,9 +11,8 @@ I'm just a random dude trying to figure out how the universe works. I'm also a *
 
 ### 🚧 Current Projects:
 
-* Weight Tracker (dashboard)
 * Automate my life with scripts & systems.
-* Timeblock my days.
+* Update my website design
 
 ### 📚 What I'm Learning
 
