@@ -1,7 +1,9 @@
 
 **About Me**
 
-I'm just a random dude trying to figure out how the universe works. I'm also a **Software Developer** who highly values **privacy**, **security** & **open source** oriented principles. My goal is to become a **Data Scientist** or a **Machine Learning Engineer** in the near future. I want to help build data-driven solutions that respect privacy and security.
+Hi, my name is Emil. I'm a **software developer** studying to become a **data scientist**.
+
+I'm interested in **NLP** generally and in privacy conserving data-driven solutions. I'm also interested about improving Finnish NLP.
 
 **Tech Stack**
 
